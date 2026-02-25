@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-simple-key-sort",
+  "version": "1.0.0",
+  "description": "ESLint plugin to sort object keys with autofix",
+  "license": "MIT",
+  "author": "Joaquin Aguirre",
+  "repository": {
+    "url": "https://github.com/joaguirrem/eslint-plugin-simple-key-sort",
+    "type": "git"
+  },
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "plugin",
+    "order",
+    "sort",
+    "sorter",
+    "sort-keys",
+    "autofix"
+  ],
+  "peerDependencies": {
+    "eslint": ">=9"
+  }
+}
